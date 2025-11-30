@@ -1,4 +1,4 @@
-import './style.scss'
+import './styles/main.scss'
 import '@material/web/button/filled-button.js'
 import '@material/web/progress/circular-progress.js'
 

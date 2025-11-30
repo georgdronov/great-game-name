@@ -1,0 +1,1 @@
+export type Route = 'start' | 'questList' | 'quest';
